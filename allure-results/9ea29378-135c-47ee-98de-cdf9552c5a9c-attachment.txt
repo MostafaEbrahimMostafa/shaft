@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 15' test cases in the current suite                                        
+                                         Test Method: 'apiTest.TC_006_BoardUpdating.validateBoardUpdate'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:46.0454 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:46.0455 PM
+[ReportManager] Handle response; PUT | Response Time: 354ms. @28-02-2025 16:27:46.0475 PM

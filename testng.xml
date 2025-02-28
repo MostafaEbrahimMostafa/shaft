@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Trello API Test Suite">
+    <test name="API Test Execution">
+        <classes>
+            <!-- Creation Test Cases -->
+            <class name="apiTest.TC_001_BoardCreation"/>
+            <class name="apiTest.TC_002_ListCreation"/>
+            <class name="apiTest.TC_003_CardCreation"/>
+            <class name="apiTest.TC_004_ChecklistCreation"/>
+            <class name="apiTest.TC_005_CheckitemCreation"/>
+
+            <!-- Updating Test Cases -->
+            <class name="apiTest.TC_006_BoardUpdating"/>
+            <class name="apiTest.TC_007_ListUpdating"/>
+            <class name="apiTest.TC_008_CardUpdating"/>
+            <class name="apiTest.TC_009_ChecklistUpdating"/>
+            <class name="apiTest.TC_010_CheckitemUpdating"/>
+
+            <!-- Deletion Test Cases (Moved to the Last) -->
+            <class name="apiTest.TC_011_CheckitemDeletion"/>
+            <class name="apiTest.TC_012_ChecklistDeletion"/>
+            <class name="apiTest.TC_013_CardDeletion"/>
+            <class name="apiTest.TC_014_ListDeletion"/>
+            <class name="apiTest.TC_015_BoardDeletion"/>
+        </classes>
+    </test>
+</suite>

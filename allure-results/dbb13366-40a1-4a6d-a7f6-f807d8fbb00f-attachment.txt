@@ -1,0 +1,14 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 15' test cases in the current suite                                        
+                                        Test Method: 'apiTest.TC_001_BoardCreation.validateBoardCreation'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:39.0350 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:39.0353 PM
+[ReportManager] Handle response; POST | Response Time: 1049ms. @28-02-2025 16:27:40.0480 PM
+[ReportManager] Get response jsonvalue; id. @28-02-2025 16:27:40.0719 PM
+[ReportManager] Get response jsonvalue; name. @28-02-2025 16:27:40.0729 PM
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:41.0154 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:41.0155 PM
+[ReportManager] Handle response; GET | Response Time: 379ms. @28-02-2025 16:27:41.0188 PM

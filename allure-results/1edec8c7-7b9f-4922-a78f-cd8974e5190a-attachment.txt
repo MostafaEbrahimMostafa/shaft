@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '9 out of 15' test cases in the current suite                                        
+                                     Test Method: 'apiTest.TC_009_ChecklistUpdating.validateChecklistUpdate'                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:47.0888 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:47.0889 PM
+[ReportManager] Handle response; PUT | Response Time: 418ms. @28-02-2025 16:27:47.0903 PM

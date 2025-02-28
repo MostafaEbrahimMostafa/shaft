@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Starting Execution: '11 out of 15' test cases in the current suite                                       
+                                    Test Method: 'apiTest.TC_011_CheckitemDeletion.validateCheckitemDeletion'                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:48.0911 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:48.0912 PM
+[ReportManager] Handle response; DELETE | Response Time: 406ms. @28-02-2025 16:27:48.0931 PM

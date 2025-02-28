@@ -1,0 +1,14 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 15' test cases in the current suite                                        
+                                         Test Method: 'apiTest.TC_002_ListCreation.validateListCreation'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:42.0139 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:42.0141 PM
+[ReportManager] Handle response; POST | Response Time: 598ms. @28-02-2025 16:27:42.0188 PM
+[ReportManager] Get response jsonvalue; id. @28-02-2025 16:27:42.0193 PM
+[ReportManager] Get response jsonvalue; name. @28-02-2025 16:27:42.0197 PM
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @28-02-2025 16:27:42.0562 PM
+[ReportManager] Actual response status code "200" is successful (Between 200 and 299). @28-02-2025 16:27:42.0564 PM
+[ReportManager] Handle response; GET | Response Time: 325ms. @28-02-2025 16:27:42.0590 PM

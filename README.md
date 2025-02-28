@@ -1,4 +1,4 @@
-# 🚀 Trello API Automation Testing Project
+# 🚀 Trello SHAFT API Automation Testing Project 
 
 ## 📖 Project Overview
 The **Trello API Automation Testing Project** is designed to automate and validate key functionalities of the **Trello API** using **SHAFT Engine**. This project ensures that board, list, card, checklist, and check-item operations are functioning as expected, enhancing the efficiency and reliability of Trello’s API.
